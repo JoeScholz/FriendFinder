@@ -1,8 +1,7 @@
 // DEPENDENCIES
 var express = require("express");
 var path = require("path");
-
-
+    
 // Tells node that we are creating an "express" server
 var app = express();
 
@@ -17,7 +16,6 @@ app.use(express.json());
 app.use(express.static("app/public"));
 
 // Routes
-// =============================================================
 require("./app/routes/apiRoutes.js")(app);
 require("./app/routes/htmlRoutes.js")(app);
 
