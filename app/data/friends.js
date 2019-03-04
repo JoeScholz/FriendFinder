@@ -16,8 +16,8 @@ var friendsArray = [
 		]
     },
     {
-		name: 'Jason',
-		photo: 'https://cakeduptees.files.wordpress.com/2015/04/freddy-krueger.png',
+		name: 'Jason Voorhees',
+		photo: 'https://uproxx.files.wordpress.com/2015/03/jason-voorhees-friday-13th.jpg?quality=100&w=650&h=418',
 		scores: [
 			'1',
 			'5',
@@ -32,8 +32,8 @@ var friendsArray = [
 		]
     },
     {
-		name: 'It',
-		photo: 'https://cakeduptees.files.wordpress.com/2015/04/freddy-krueger.png',
+		name: 'Pennywise The Dancing Clown',
+		photo: 'https://thechive.files.wordpress.com/2017/09/who-and-what-exactly-is-pennywise-the-dancing-clown-x-photos-2.png?w=641&h=280&zoom=2',
 		scores: [
 			'5',
 			'2',
@@ -49,7 +49,7 @@ var friendsArray = [
     },
     {
 		name: 'Anton Chigurh',
-		photo: 'https://cakeduptees.files.wordpress.com/2015/04/freddy-krueger.png',
+		photo: 'https://knowledgenuts.com/wp-content/uploads/2014/01/no-country-960x450.jpg',
 		scores: [
 			'2',
 			'4',
@@ -65,7 +65,7 @@ var friendsArray = [
     },
     {
 		name: 'Hannibal Lecter',
-		photo: 'https://cakeduptees.files.wordpress.com/2015/04/freddy-krueger.png',
+		photo: 'http://4.bp.blogspot.com/-Hqpf8rMtgSE/UI8GAZs2BvI/AAAAAAAAFWs/-B7QM2s3yyc/s1600/Silence_of_The_Lambs.jpg',
 		scores: [
 			'5',
 			'2',
