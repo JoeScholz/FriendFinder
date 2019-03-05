@@ -8,18 +8,18 @@ FriendFinder uses node.js, express.js, and JavaScript to crete a quiz where user
 
 # Detail Functionality:
 
-Survey fields and example questions:
+## Survey fields and example questions:
 
 ![display](Images/Survey.PNG)
 
-A 'friend' match:
+## A 'friend' match:
 
 ![display](Images/Match.PNG)
 
-Stored 'friend' code:
+## Stored 'friend' code:
 
 ![display](Images/friendsCode.PNG)
 
-JavaScript comparison code:
+## JavaScript comparison code:
 
 ![display](Images/postCode.PNG)
